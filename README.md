@@ -9,4 +9,9 @@ The main idea of a penetration tester is to use scripts to test the vulnerabilit
   Capstone deployment infromation
 In this next section I will provide a description of what i deployed and how. First I set up 2 machines. Kali Linux and metasploitable 2 from rapid7. This is a virtual machine that can be exploited. I will be choosing a few of the most common CVE's and demostrating how they work, how to exploit and how to mitigate.
 
- 
+ Link to DOCS
+ https://docs.google.com/document/d/1Gtw5PDPjnXXxdiGrGaRQO7za4pd7BmFAnSab99vfD0g/edit?usp=sharing
+
+ Link to presentation
+
+ Link to demo video
