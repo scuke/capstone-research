@@ -15,3 +15,9 @@ In this next section I will provide a description of what i deployed and how. Fi
  Link to presentation
 
  Link to demo video
+
+ Resources
+ https://github.com/sendgrid/email-templates/blob/master/paste-templates/password-reset.html
+https://github.com/criggs626/PhishingTemplates/blob/master/emails/microsoft.html
+https://emkei.cz/
+https://www.rapid7.com/db/modules/exploit/multi/samba/usermap_script/
