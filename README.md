@@ -14,7 +14,7 @@ In this next section I will provide a description of what i deployed and how. Fi
 
  Link to presentation
 
- Link to demo video
+ https://docs.google.com/presentation/d/10CzWJG5VXaZrJyWAutYmvDDa8kxHGoBCCEV7XMjVdCA/edit?usp=sharing
 
  Resources
  https://github.com/sendgrid/email-templates/blob/master/paste-templates/password-reset.html
